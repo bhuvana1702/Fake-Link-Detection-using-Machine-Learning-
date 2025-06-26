@@ -1,11 +1,12 @@
 🔍 Fake Link Detection using Machine Learning
+
 📄 Overview
 This project aims to detect malicious or fake URLs using a machine learning model trained 
 on a rich dataset of legitimate and malicious links. It leverages URL-based features such as 
 character patterns, keyword usage, and structural cues to classify whether a given link is SAFE or Malicious.
 
 📦 Dataset
-We used the publicly available Malicious URLs Dataset from Kaggle: 👉 Malicious URLs Dataset – Kaggle
+We used the publicly available Malicious URLs Dataset from Kaggle: 👉 Malicious URLs Dataset – Kaggle(📥 Download the dataset from Kaggle: https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset)
 
 Due to file size limitations on GitHub, we have not uploaded the .csv and .pkl files here.
 
